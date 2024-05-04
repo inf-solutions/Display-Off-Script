@@ -1,0 +1,1 @@
+Dont double click make sure to right click the file and press OPEN IN POWERSHELL option then press O and if you want your display back on press P (note if this doesnt work and you are on a laptop just press your power button twice (no holding) to make it go into sleep and wake up if the p key doesnt work)
